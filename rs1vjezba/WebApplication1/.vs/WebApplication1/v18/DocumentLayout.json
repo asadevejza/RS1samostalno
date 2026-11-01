@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asad\\Desktop\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F55124F8-BD91-4F37-AAB2-A9ACD1E1748E}|WebApplication1\\WebApplication1.csproj|c:\\users\\asad\\desktop\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F55124F8-BD91-4F37-AAB2-A9ACD1E1748E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55124F8-BD91-4F37-AAB2-A9ACD1E1748E}|WebApplication1\\WebApplication1.csproj|c:\\users\\asad\\desktop\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\webapplication1\\webapplication1\\data\\studentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55124F8-BD91-4F37-AAB2-A9ACD1E1748E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\studentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asad\\Desktop\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asad\\Desktop\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-01T12:44:36.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Asad\\Desktop\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\WebApplication1\\WebApplication1\\Data\\StudentStorage.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\StudentStorage.cs",
+              "ToolTip": "C:\\Users\\Asad\\Desktop\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\WebApplication1\\WebApplication1\\Data\\StudentStorage.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\StudentStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:44:27.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
