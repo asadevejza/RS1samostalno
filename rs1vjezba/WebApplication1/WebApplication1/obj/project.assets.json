@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asad\\Desktop\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Asad\\Desktop\\RS1vjezba\\rs1vjezba\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Asad\\Desktop\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\Asad\\Desktop\\RS1vjezba\\rs1vjezba\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Asad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asad\\Desktop\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\rs1-v01-git-074db76080bbdc675d5390504a1f7be92d5cfc99\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\Asad\\Desktop\\RS1vjezba\\rs1vjezba\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
